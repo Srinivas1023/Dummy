@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_66"/>
+	<classpathentry kind="lib" path="C:/Users/Kambalapally/workspace/automation/Hybrid_FrameWork/CommonJarFiles/selenium-server-standalone-3.12.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kambalapally/workspace/automation/Hybrid_FrameWork/CommonJarFiles/testng-6.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kambalapally/workspace/automation/Hybrid_FrameWork/CommonJarFiles/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kambalapally/workspace/automation/Hybrid_FrameWork/CommonJarFiles/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kambalapally/workspace/automation/Hybrid_FrameWork/CommonJarFiles/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kambalapally/workspace/automation/Hybrid_FrameWork/CommonJarFiles/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kambalapally/workspace/automation/Hybrid_FrameWork/CommonJarFiles/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kambalapally/workspace/automation/Hybrid_FrameWork/CommonJarFiles/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kambalapally/workspace/automation/Hybrid_FrameWork/CommonJarFiles/poi-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kambalapally/workspace/automation/Hybrid_FrameWork/CommonJarFiles/poi-examples-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kambalapally/workspace/automation/Hybrid_FrameWork/CommonJarFiles/poi-excelant-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kambalapally/workspace/automation/Hybrid_FrameWork/CommonJarFiles/poi-ooxml-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kambalapally/workspace/automation/Hybrid_FrameWork/CommonJarFiles/poi-ooxml-schemas-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kambalapally/workspace/automation/Hybrid_FrameWork/CommonJarFiles/poi-scratchpad-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kambalapally/workspace/automation/Hybrid_FrameWork/CommonJarFiles/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kambalapally/workspace/automation/Hybrid_FrameWork/CommonJarFiles/ant-1.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kambalapally/workspace/automation/Hybrid_FrameWork/CommonJarFiles/ant-launcher-1.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kambalapally/workspace/automation/Hybrid_FrameWork/CommonJarFiles/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kambalapally/workspace/automation/Hybrid_FrameWork/CommonJarFiles/bson-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kambalapally/workspace/automation/Hybrid_FrameWork/CommonJarFiles/extentreports-2.41.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kambalapally/workspace/automation/Hybrid_FrameWork/CommonJarFiles/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kambalapally/workspace/automation/Hybrid_FrameWork/CommonJarFiles/hamcrest-core-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kambalapally/workspace/automation/Hybrid_FrameWork/CommonJarFiles/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kambalapally/workspace/automation/Hybrid_FrameWork/CommonJarFiles/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kambalapally/workspace/automation/Hybrid_FrameWork/CommonJarFiles/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kambalapally/workspace/automation/Hybrid_FrameWork/CommonJarFiles/mongodb-driver-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kambalapally/workspace/automation/Hybrid_FrameWork/CommonJarFiles/mongodb-driver-core-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kambalapally/workspace/automation/Hybrid_FrameWork/CommonJarFiles/snakeyaml-1.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kambalapally/workspace/automation/Hybrid_FrameWork/CommonJarFiles/sqlite-jdbc-3.8.11.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kambalapally/workspace/automation/Hybrid_FrameWork/CommonJarFiles/testng-6.9.9.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
